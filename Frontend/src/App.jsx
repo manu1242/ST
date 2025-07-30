@@ -6,7 +6,7 @@ import Community from "./assets/Listener.png";
 import ProblemSolver from "./assets/Problem solver.png";
 import Trust from "./assets/trust.png";
 import Home from "./assets/Home.png";
-import Per1 from "./assets/person1.png";
+import Per1 from "./assets/Person1.png";
 import Per2 from "./assets/per2.png";
 import Per3 from "./assets/per3.png";
 import Per4 from "./assets/per4.png";
