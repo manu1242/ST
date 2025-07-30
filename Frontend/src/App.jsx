@@ -2,8 +2,8 @@ import React from "react";
 import "./App.css";
 import st from './assets/st.png'
 import Designer from "./assets/Designer.png";
-import Community from "./assets/listener.png";
-import ProblemSolver from "./assets/Problem Solver.png";
+import Community from "./assets/Listener.png";
+import ProblemSolver from "./assets/Problem solver.png";
 import Trust from "./assets/trust.png";
 import Home from "./assets/Home.png";
 import Per1 from "./assets/person1.png";
