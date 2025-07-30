@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import st from './assets/st.png'
-import Designer from "./assets/designer.png";
+import Designer from "./assets/Designer.png";
 import Community from "./assets/listener.png";
 import ProblemSolver from "./assets/Problem Solver.png";
 import Trust from "./assets/trust.png";
